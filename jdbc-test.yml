@@ -1,0 +1,3 @@
+jdbc:
+    name: root
+    pass: 123456
